@@ -18,7 +18,7 @@ I am a freshman computer science student at UNC Greensboro<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=keevans2007-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <!--
 **keevans2007-bot/keevans2007-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
